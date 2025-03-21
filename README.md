@@ -1,12 +1,11 @@
 # Siemens
 Totalizer Functional Block 
-Inputs
-- Flow rate (Only in m³/hr)
-- Reset Button Tag (To reset all)
-Outputs
-- Total Litres
-- Total Gallons
-- Total Barrels
-- Time
-- Time in string
+
+- Flow rate (Only in m³/hr) //Input
+- Reset Button Tag (To reset all) //Input
+- Total Litres //Output
+- Total Gallons //Output
+- Total Barrels //Output
+- Time //Output
+- Time in string  //Output
 
